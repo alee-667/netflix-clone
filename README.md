@@ -1,6 +1,6 @@
 # Netflix Clone
 
-- **A Netflix Clone App with TMDB movies and series. *
+- A Netflix Clone App with TMDB movies and series. 
 
 ---
 
