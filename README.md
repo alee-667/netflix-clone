@@ -12,6 +12,9 @@
 
 [Tech Stack](#tech-stack)
 
+[Implementation Hightlights](#Implementation-Highlights)
+
+
 
 ---
 ## Demo
