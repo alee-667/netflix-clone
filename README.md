@@ -8,7 +8,7 @@
 
 [Demo](#demo)
 
-- [Live Site Demo](#live-site-demo)
+- [Live Site](#live-site)
 
 [Tech Stack](#tech-stack)
 
@@ -19,9 +19,9 @@
 ---
 ## Demo
 
-### Live Site Demo
+### Live Site
 
-Demo: [Link](https://netflix-clone-f3d8a.web.app/)
+Hosted Here: [Link](https://netflix-clone-f3d8a.web.app/)
 
 ## Tech Stack
 
